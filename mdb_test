@@ -1,0 +1,19 @@
+const devDbConfig = {
+    tagDbParam: {
+        host: "test.mdb.mig",
+        port: 9999,
+        user: "test",
+        password: "12345",
+        database: "12345"
+    }
+}
+// Datebase Config for Production
+const prodDbConfig = {
+    tagDbParam: {
+        host: "test.mdb.mig",
+        port: 9999,
+        user: "test",
+        password: "12345",
+        database: "12345"
+    },
+}
