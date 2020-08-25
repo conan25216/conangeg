@@ -17,3 +17,6 @@ const prodDbConfig = {
         database: "12345"
     },
 }
+
+username:abc
+password:helloworld
